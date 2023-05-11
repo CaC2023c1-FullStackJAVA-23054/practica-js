@@ -2,3 +2,10 @@
     color: darkblue;
     font-size: 1.5rem;
 }
+
+#visorDeEmoji {
+    font-size: 5rem;
+    text-align: center;
+    border: solid 1px black;
+    margin: 10px;
+}
